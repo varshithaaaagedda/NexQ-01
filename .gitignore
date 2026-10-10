@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+backend/.venv/
+.venv/
+
+# Build & Cache
+frontend/dist/
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+*.log
